@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm Qin Shaowei, a developer from Shenzhen, China.
-- 🔭 I’m currently working on Java, Javascript and Python
-- 🌱 I’m currently learning es
+- 🔭 I’m currently working on building a solid background service by Java
+- 🌱 I’m currently learning es and distributed system
 - ⚡ Fun fact: I like doing sports and do well in it.
 <!--
 **Sebastian-Getts/Sebastian-Getts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
