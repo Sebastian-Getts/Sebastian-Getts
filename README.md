@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Qin Shaowei, a developer from Shenzhen, China.
+I'm Qin Shaowei, a software engineer from Shenzhen, China.
 - 🔭 I’m currently working on building a solid background service by Java
 - 🌱 I’m currently learning es and distributed system
 - ⚡ Fun fact: I like doing sports and do well in it.
